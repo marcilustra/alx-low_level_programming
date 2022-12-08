@@ -1,2 +1,2 @@
 #!/bin/bash
-cpp $CFILE > "${CFILE%.*}-c.0"
+gcc -E $CFILE -o c
