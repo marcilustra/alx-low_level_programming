@@ -1,6 +1,15 @@
 #include<stdio.h>
+/*Main duh*/
 
-int main (void) /*Main duh*/
+/**
+ *main - Entry point
+ *
+ * Description: 'the program's description'
+ *
+ * Return: Always 0 (Success)
+ */
+
+int main(void)
 {
 	/*String initialization*/
 	char my_String[] = "\"Programming is like building a multilingual puzzle";
