@@ -1,2 +1,2 @@
-Task 0: Preprocessor bash script that writes to a file with .o extension
-
+Task 0: Preprocessor bash script that writes to a file.
+Task 1: Compiles file without linking it.
