@@ -10,8 +10,6 @@
 int main(void)
 {
 	/*String Variable declarion*/
-	char message[] = "with proper grammar, but the outcome is a piece of art,\n";
-
-	printf(message);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
