@@ -14,7 +14,8 @@ int main(void)
 	int my_int;
 
 	my_int = 0;
-	while(my_int < 10) {
+	while (my_int < 10)
+	{
 		printf("%d", my_int);
 		my_int++;
 	}
