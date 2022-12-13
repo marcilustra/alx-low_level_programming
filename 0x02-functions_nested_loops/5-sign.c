@@ -12,15 +12,15 @@ int print_sign(int n)
 {
 	if (n < 0)
 	{
-		printf("-, %d", n);
+		_putchar("-, %d", n);
 	}
 	else if (n > 0)
 	{
-		printf("+, %d", n);
+		_putchar("+, %d", n);
 	}
 	else
 	{
-		printf("0, %d", n);
+		_putchar("0, %d", n);
 	}
 	return (0);
 }
