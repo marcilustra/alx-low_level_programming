@@ -9,7 +9,8 @@
  */
 int _abs(int n)
 {
-	int abval = abs(n);
-
+	int abval;
+	
+	abval = abs(n);
 	return (abval);
 }
