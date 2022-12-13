@@ -4,7 +4,8 @@
 /*
  * File: main.h
  *
- * Desc: Header file containing declartions for all function
+ * Desc: Header file containing prototype declarations for all functions
+ * of Project 0x02
  */
 
 int _putchar(char c);
