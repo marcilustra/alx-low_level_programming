@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
-  * main - Entry point
-  * Tests whether positive or negative
+  * main - tests whether positive or negative
   * Return: 0
   */
 
