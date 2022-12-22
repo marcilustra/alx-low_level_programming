@@ -12,3 +12,9 @@ More of the same:
 	-Task 3: Compare two strings the same way strcmp now.
 
 	-Task 4: Reverse an array elements.
+
+	-Task 5: turns all lowercase letters of a string to UPPERCASE.
+
+	-Task 6: Turns All First Letters Of A String To Capital Letters.
+	
+	-Task 7: 1337.
