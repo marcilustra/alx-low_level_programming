@@ -10,3 +10,5 @@ More of the same:
 	-Task 2: Copy a string from source to destination with similar byte limitations to Task 1.
 
 	-Task 3: Compare two strings the same way strcmp now.
+
+	-Task 4: Reverse an array elements.
