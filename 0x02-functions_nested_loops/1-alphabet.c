@@ -5,7 +5,7 @@
  *
  * Description: Prints the alphabet with new line
  *
- * Return: 0 (Success)
+ * Return: 0 (It is void, returns nothing)
  */
 void print_alphabet(void)
 {
