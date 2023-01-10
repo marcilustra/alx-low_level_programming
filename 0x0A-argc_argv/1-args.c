@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 
 /**
  * main - Entry
@@ -7,8 +8,9 @@
  * Return: 0 (Succ)
  */
 
-int main(int argc, char *argv[])
+int main(int argc, char __attribute__((__unused__)) *argv[])
 {
 	printf("%i\n", (argc - 1));
+
 	return (0);
 }
